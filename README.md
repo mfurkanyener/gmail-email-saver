@@ -1,12 +1,18 @@
-## gmail-email-saver
-Gmail Mail Saver (Node JS, MySQL, Firebase and React)
+# gmail-email-saver
+Gmail Email Saver (Node JS, MySQL, Firebase and React)
 
-1. cd client && npm install
-2. cd server && npm install
-3. cd ../ && npm run build
-4. npm run start
+> ### NodeJS + React + MySQL + Firebase gmail inbox email save application for getting and saving all of emails in your inbox.
 
-# Notes
+## Getting started
+
+To get the frontend and backend running locally:
+
+- `cd client && npm install`
+`- cd server && npm install`
+`- cd ../ && npm run build`
+`- npm run start`
+
+## Notes
 
 You have to fill credentials sections.
 1. Firebase for listen saved emails.
