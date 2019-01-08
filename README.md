@@ -8,9 +8,9 @@ Gmail Email Saver (Node JS, MySQL, Firebase and React)
 To get the frontend and backend running locally:
 
 - `cd client && npm install`
-`- cd server && npm install`
-`- cd ../ && npm run build`
-`- npm run start`
+- `cd server && npm install`
+- `cd ../ && npm run build`
+- `npm run start`
 
 ## Notes
 
