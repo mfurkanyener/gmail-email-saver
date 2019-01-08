@@ -30,3 +30,7 @@ To get the frontend and backend running locally:
 - [x] Complete application
 - [x] Optimize application
 - [ ] Improve code quality
+
+```
+If you have any questions feel free and ask it! 🍺 [emrekacan@gmail.com](mailto:emrekacan@gmail.com)
+```
