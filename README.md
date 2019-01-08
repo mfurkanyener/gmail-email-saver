@@ -32,5 +32,5 @@ To get the frontend and backend running locally:
 - [ ] Improve code quality
 
 ```
-If you have any questions feel free and ask it! 🍺 emrekacan@gmail.com
+If you have any questions, feel free and ask it! 🍺 emrekacan@gmail.com
 ```
