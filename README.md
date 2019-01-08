@@ -1,4 +1,4 @@
-# gmail-email-saver v1
+# Gmail Email Saver v1
 
 > ### NodeJS + React + MySQL + Firebase Multi thread gmail inbox email save application for getting and saving all of emails in your inbox.
 
