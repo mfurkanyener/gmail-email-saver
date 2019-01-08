@@ -25,8 +25,8 @@ To get the frontend and backend running locally:
 - MySQL for saving emails data to database
 - Gmail Auth Credentials.
 
+## Milestones
 
 - [x] Complete application
 - [x] Optimize application
-- [ ] Open a pull request
 - [ ] Improve code quality
